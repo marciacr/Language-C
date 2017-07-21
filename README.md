@@ -1,2 +1,3 @@
 # Language-C
-C Programs 
+C Programs for beginners.
+I hope they are useful
